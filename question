@@ -1,0 +1,1 @@
+1. Implement the forward difference method to compute the first derivative of f(x)=x3+2x2−5x+7 at x=2 with a step size h=0.1
