@@ -9,3 +9,5 @@ h = 0.1
 approx_derivative = forward_difference(x, h)
 
 print(f"Approximate first derivative at x={x} using h={h}: {approx_derivative}")
+
+
